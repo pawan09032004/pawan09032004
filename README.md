@@ -1,7 +1,3 @@
-# 💫 About Me:
-Full-stack & Blockchain Developer | Ex-SDE @ Oplexa LLC | SIH’23 Finalist<br>| AI/ML Enthusiast | Final Year CSAI Student @ NSUT (2025)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pawan-meena-77a8a1241/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawanjorwal0903@gmail.com) 
 
